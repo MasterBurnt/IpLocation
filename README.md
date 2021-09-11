@@ -1,15 +1,5 @@
 # IpLocation
 Get IP location information
-
-<br/>
-[1] http 
-<br/>
-[2] https
-<br/>
-[3] socks4
-<br/>
-[4] socks5
-
 <pre>  
 ________         ______                       _____ _____                
 ____  _/________ ___  / ______ _____________ ___  /____(_)______ _______ 
